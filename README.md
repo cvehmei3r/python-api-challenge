@@ -5,3 +5,5 @@ https://www.w3schools.com/python/pandas/ref_df_dropna.asp
 https://stackoverflow.com/questions/58691575/how-do-i-get-the-url-to-an-api-knowing-the-request-url-and-headers
 https://dfrieds.com/data-visualizations/customize-scatter-plot-styles-python-matplotlib.html#adjust-the-transparency-of-scatter-points
 https://www.geeksforgeeks.org/python-pandas-dataframe-loc/#
+https://www.w3schools.com/python/pandas/ref_df_copy.asp
+https://apidocs.geoapify.com/docs/places/#about

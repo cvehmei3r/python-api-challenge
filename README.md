@@ -7,3 +7,4 @@ https://dfrieds.com/data-visualizations/customize-scatter-plot-styles-python-mat
 https://www.geeksforgeeks.org/python-pandas-dataframe-loc/#
 https://www.w3schools.com/python/pandas/ref_df_copy.asp
 https://apidocs.geoapify.com/docs/places/#about
+https://stackoverflow.com/questions/59678780/show-extra-columns-when-hovering-in-a-scatter-plot-with-hvplot
